@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my profile
+
+I am Andrea, a PhD student at University of Arizona.
+
+My main interests are aerospace engineering, reinforcement learning and computer vision.
+
+[LinkedIn 💼](https://www.linkedin.com/in/andrea-scorsoglio-409a72140/)
+
+
+
 
 <!--
 **andreascorsoglio/andreascorsoglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
