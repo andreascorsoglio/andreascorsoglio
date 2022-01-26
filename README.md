@@ -6,7 +6,11 @@ My main interests are aerospace engineering, reinforcement learning and computer
 
 [LinkedIn 💼](https://www.linkedin.com/in/andrea-scorsoglio-409a72140/)
 
+<!--
+[Website 🌍](https://dannyverpoort.dev/)
 
+[Email 📬](mailto:hallo@dannyverpoort.nl)
+-->
 
 
 <!--
