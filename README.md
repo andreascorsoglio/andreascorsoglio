@@ -2,7 +2,7 @@
 
 I am Andrea, a PhD student at University of Arizona.
 
-My main interests are aerospace engineering, reinforcement learning and computer vision.
+I focus on reinforcement learning and computer vision for aerospace applications.
 
 [LinkedIn 💼](https://www.linkedin.com/in/andrea-scorsoglio-409a72140/)
 
